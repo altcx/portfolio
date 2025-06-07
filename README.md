@@ -1,3 +1,2 @@
 # portfolio
-some things about me
-
+todo - Frontend Website + Build Projs
